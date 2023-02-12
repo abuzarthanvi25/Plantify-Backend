@@ -1,0 +1,41 @@
+{
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        "followers": {
+          "href": null,
+          "total": 1195666
+        },
+        "genres": [
+          "dance pop",
+          "romanian house",
+          "romanian pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+        "id": "2w9zwq3AktTeYYMuhMjju8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb571bd5587850d252e8fc892d",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174571bd5587850d252e8fc892d",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178571bd5587850d252e8fc892d",
+            "width": 160
+          }
+        ],
+        "name": "INNA",
+        "popularity": 69,
+        "type": "artist",
+        "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+      }
+    ]
+  }

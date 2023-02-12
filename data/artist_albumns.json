@@ -1,0 +1,675 @@
+{
+    "artist": {
+        "albums": {
+            "totalCount": 11,
+            "items": [
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5aWF6mKr3bSRlMnyxA8Tip",
+                      "uri": "spotify:album:5aWF6mKr3bSRlMnyxA8Tip",
+                      "name": "Champagne Problems #DQH2",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-03-11T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fec9341c25339773dfe59cb5",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851fec9341c25339773dfe59cb5",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fec9341c25339773dfe59cb5",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "F_oACVQjQjydEbpH_5V86A",
+                        "shareUrl": "https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip?si=F_oACVQjQjydEbpH_5V86A"
+                      },
+                      "tracks": {
+                        "totalCount": 8
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "62XwEYC2iJIX37oZlJbsvi",
+                      "uri": "spotify:album:62XwEYC2iJIX37oZlJbsvi",
+                      "name": "Champagne Problems #DQH1",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-01-07T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02482832441ba0b9f1ede62ae6",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851482832441ba0b9f1ede62ae6",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273482832441ba0b9f1ede62ae6",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "NGmAK2PRROeu5kz39rIjqw",
+                        "shareUrl": "https://open.spotify.com/album/62XwEYC2iJIX37oZlJbsvi?si=NGmAK2PRROeu5kz39rIjqw"
+                      },
+                      "tracks": {
+                        "totalCount": 8
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "3QFR3OduDKvQpTPsnmiYl9",
+                      "uri": "spotify:album:3QFR3OduDKvQpTPsnmiYl9",
+                      "name": "Heartbreaker",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2020,
+                        "isoString": "2020-12-04T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c1725be0a413be97208ccdca",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851c1725be0a413be97208ccdca",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c1725be0a413be97208ccdca",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "1yPL_hJVT6-DGpdxcFtz6w",
+                        "shareUrl": "https://open.spotify.com/album/3QFR3OduDKvQpTPsnmiYl9?si=1yPL_hJVT6-DGpdxcFtz6w"
+                      },
+                      "tracks": {
+                        "totalCount": 10
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "4BaDuakq8ON5eOQFRoNYM5",
+                      "uri": "spotify:album:4BaDuakq8ON5eOQFRoNYM5",
+                      "name": "YO",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2019,
+                        "isoString": "2019-05-31T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eaa5b18552a3e2e9f95eb9ca",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851eaa5b18552a3e2e9f95eb9ca",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eaa5b18552a3e2e9f95eb9ca",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "LQrMTXVzSjK5S5Zclm-G9w",
+                        "shareUrl": "https://open.spotify.com/album/4BaDuakq8ON5eOQFRoNYM5?si=LQrMTXVzSjK5S5Zclm-G9w"
+                      },
+                      "tracks": {
+                        "totalCount": 11
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "1LybLcJ9KuOeLHsn1NEe3j",
+                      "uri": "spotify:album:1LybLcJ9KuOeLHsn1NEe3j",
+                      "name": "Inna",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2015,
+                        "isoString": "2015-10-30T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e023257e2b781094bcdc048b2f2",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048513257e2b781094bcdc048b2f2",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733257e2b781094bcdc048b2f2",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "pkC22oIkTIutqNoA145RgA",
+                        "shareUrl": "https://open.spotify.com/album/1LybLcJ9KuOeLHsn1NEe3j?si=pkC22oIkTIutqNoA145RgA"
+                      },
+                      "tracks": {
+                        "totalCount": 18
+                      }
+                    },
+                    {
+                      "id": "1b66d3S1h7hMEhCPBXlnbn",
+                      "uri": "spotify:album:1b66d3S1h7hMEhCPBXlnbn",
+                      "name": "INNA",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2015,
+                        "isoString": "2015-10-30T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e022824fd35dd1dffcfe1b77c20",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048512824fd35dd1dffcfe1b77c20",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732824fd35dd1dffcfe1b77c20",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "drzvKScBQz2VEc7BkbkTJQ",
+                        "shareUrl": "https://open.spotify.com/album/1b66d3S1h7hMEhCPBXlnbn?si=drzvKScBQz2VEc7BkbkTJQ"
+                      },
+                      "tracks": {
+                        "totalCount": 17
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "07hKp30OfkSekfN5IsmShA",
+                      "uri": "spotify:album:07hKp30OfkSekfN5IsmShA",
+                      "name": "Party Never Ends",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2014,
+                        "isoString": "2014-10-14T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b897678be24ef27cb5ee4ab6",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851b897678be24ef27cb5ee4ab6",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b897678be24ef27cb5ee4ab6",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "w-bDubz9TgakglQS2a6-eg",
+                        "shareUrl": "https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA?si=w-bDubz9TgakglQS2a6-eg"
+                      },
+                      "tracks": {
+                        "totalCount": 15
+                      }
+                    },
+                    {
+                      "id": "2qL4k9MmaPNgj2PMayGuHH",
+                      "uri": "spotify:album:2qL4k9MmaPNgj2PMayGuHH",
+                      "name": "Party Never Ends, Pt. 1 (Deluxe Edition)",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2013,
+                        "isoString": "2013-03-04T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0221e639a53f2707d4b32f7faf",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485121e639a53f2707d4b32f7faf",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27321e639a53f2707d4b32f7faf",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "v3nok9TSSLKQfA0Ir5uyiQ",
+                        "shareUrl": "https://open.spotify.com/album/2qL4k9MmaPNgj2PMayGuHH?si=v3nok9TSSLKQfA0Ir5uyiQ"
+                      },
+                      "tracks": {
+                        "totalCount": 16
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "2iIiwsEKIHPZXIHr1qO4fD",
+                      "uri": "spotify:album:2iIiwsEKIHPZXIHr1qO4fD",
+                      "name": "Party Never Ends, Pt. 2 (Deluxe Editon)",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2013,
+                        "isoString": "2013-03-04T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02813ec28d324f446a38bd7379",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851813ec28d324f446a38bd7379",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273813ec28d324f446a38bd7379",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "TxH6enFMTLCECrKdW4DkbA",
+                        "shareUrl": "https://open.spotify.com/album/2iIiwsEKIHPZXIHr1qO4fD?si=TxH6enFMTLCECrKdW4DkbA"
+                      },
+                      "tracks": {
+                        "totalCount": 9
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "4lVMYJoQGTWtlggefBGef4",
+                      "uri": "spotify:album:4lVMYJoQGTWtlggefBGef4",
+                      "name": "Party Never Ends, Part 2 (Deluxe Edition)",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2013,
+                        "isoString": "2013-01-01T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e027daff2c7c8a71f644af6b265",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048517daff2c7c8a71f644af6b265",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737daff2c7c8a71f644af6b265",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "Ht0LaoKtSmWkfJmMVTZw-Q",
+                        "shareUrl": "https://open.spotify.com/album/4lVMYJoQGTWtlggefBGef4?si=Ht0LaoKtSmWkfJmMVTZw-Q"
+                      },
+                      "tracks": {
+                        "totalCount": 9
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "45WWiybURSpC7tslSxGnrf",
+                      "uri": "spotify:album:45WWiybURSpC7tslSxGnrf",
+                      "name": "Party Never Ends, Part 1 (Deluxe Edition)",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2013,
+                        "isoString": "2013-01-01T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02789b5fef31115d1437e2d5a5",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851789b5fef31115d1437e2d5a5",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273789b5fef31115d1437e2d5a5",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "MOZ7I9VlSYyBNrBi0x-p6A",
+                        "shareUrl": "https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf?si=MOZ7I9VlSYyBNrBi0x-p6A"
+                      },
+                      "tracks": {
+                        "totalCount": 16
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "7LUW42pRwoFJV3bIFeliVJ",
+                      "uri": "spotify:album:7LUW42pRwoFJV3bIFeliVJ",
+                      "name": "I Am the Club Rocker",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2011,
+                        "isoString": "2011-01-01T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02464f14f7c511222dc6c95b97",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851464f14f7c511222dc6c95b97",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273464f14f7c511222dc6c95b97",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "LSXSS0SORASAmmCRouhCFQ",
+                        "shareUrl": "https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ?si=LSXSS0SORASAmmCRouhCFQ"
+                      },
+                      "tracks": {
+                        "totalCount": 13
+                      }
+                    },
+                    {
+                      "id": "2DSZn3i8s1nI8fE01Io4LC",
+                      "uri": "spotify:album:2DSZn3i8s1nI8fE01Io4LC",
+                      "name": "I Am the Club Rocker",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2011,
+                        "isoString": "2011-09-19T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e30fab560fe8059246acfd23",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851e30fab560fe8059246acfd23",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e30fab560fe8059246acfd23",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "oe0HCx-rTXW-SSpCaXvVQQ",
+                        "shareUrl": "https://open.spotify.com/album/2DSZn3i8s1nI8fE01Io4LC?si=oe0HCx-rTXW-SSpCaXvVQQ"
+                      },
+                      "tracks": {
+                        "totalCount": 13
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "7mRhzwh8TINisagYjnmIMT",
+                      "uri": "spotify:album:7mRhzwh8TINisagYjnmIMT",
+                      "name": "Hot",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2010,
+                        "isoString": "2010-01-01T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02497e791a71b496fa4ddbc363",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851497e791a71b496fa4ddbc363",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273497e791a71b496fa4ddbc363",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "LW7s7vE5STaJUpLumIUDew",
+                        "shareUrl": "https://open.spotify.com/album/7mRhzwh8TINisagYjnmIMT?si=LW7s7vE5STaJUpLumIUDew"
+                      },
+                      "tracks": {
+                        "totalCount": 12
+                      }
+                    },
+                    {
+                      "id": "1BykQV2nA2F8zXzsUJ6DQ2",
+                      "uri": "spotify:album:1BykQV2nA2F8zXzsUJ6DQ2",
+                      "name": "Hot",
+                      "type": "ALBUM",
+                      "date": {
+                        "year": 2010,
+                        "isoString": "2010-01-01T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02429b0446d222e4ff7bbaa68b",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851429b0446d222e4ff7bbaa68b",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273429b0446d222e4ff7bbaa68b",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "1frEO2UcTeeRBjcVKZ1zeA",
+                        "shareUrl": "https://open.spotify.com/album/1BykQV2nA2F8zXzsUJ6DQ2?si=1frEO2UcTeeRBjcVKZ1zeA"
+                      },
+                      "tracks": {
+                        "totalCount": 12
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+    }
+  }
